@@ -1,8 +1,10 @@
 ### Olá! Sou o Matheus da Silva :)
 
-![Matheus´ GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus-daSilva&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-daSilva&layout=compact&langs_count=16&theme=radical)
+<div>
+<a href="https://github.com/Matheus-daSilva">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-daSilva&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="160px", width="400px" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-daSilva&layout=compact&langs_count=7&theme=radical" height="160px", width="400px" />
+</div>
 
 ## Tecnologias que utilizo
 
