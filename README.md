@@ -1,4 +1,23 @@
-### Olá! Sou o Matheus da Silva :)
+### Bem vindo(a) ao meu perfil! Tudo certo? 
+
+Me chamo Matheus, nasci e vivo em São Paulo - SP desde então
+
+Minha paixão por tecnologia surgiu quando eu ganhei meu primeiro vídeo game, um Nitendo Wii. Passava horas me divertindo com a minha família (nostalgia 🤣).
+
+Em 2016, sabendo que gostava de eletrônicos no geral, ingressei em um escola técnica estadual onde estudei em período integral o técnico em eletrônica integrado ao insino médio. Meu primeiro contato com a programação ocorreu no meu segundo ano. Eu já sabia que gostava de realizar manutenção em hardwares e estava empolgadíssimo para entender mais sobre softwares,
+
+Já no meu último ano, recebo a notícia de que teria que desenvolver um trabalho de conclusão de curso. Após isso, ingressei em um grupo em que decidimos fazer algo pela nossa escola, e surgiu a idéia de um placar eletrônio para a nossa quadra. Conversa vai, conversa vem, fui escolhido como o líder deste grupo. Nessa época não sabia o que eram soft skills, mas já praticava para manter o grupo unido e com a menor quantidade de atritos possíveis. Depois de muitos altos e baixos, nosso projeto ficou pronto para ir à banca avaliadora, que nos deu nota máxima pelo projeto.
+
+Formado e inspirado por um casal de professores que lecionou para a minha turma durante todo o ensino médio, decidi cursar Física. Ingressei na faculdade no ano de 2020 e, no meu segundo semestre, cursei uma matéria de introdução à computação, em que, novamente, mais um professor me inspirou a gostar de algo, e esse algo era Python!
+
+No final daquele semestre, continuei procurando cursos de progrmação e passei a assistir vídeos sobre o assunto no YouTube, até que apareceu um anúncio da Driven Education em que eles faziam a proposta de nos formar desenvolvedores FullStack Jr em apenas 9 meses. Mas não se enganem, nesses útilmos 9 meses passei por uma formação rigorosa e completa na área de desenvolvimento de hard e soft skills. Passei por diversas simulações de trabalho em equipe, aplicando as normas de boas práticas e as tecnologias citadas abaixo.
+
+------
+- Desenvolvimento de front-end: HTML | CSS | JavaScript | ReactJS | AJAX
+- Desenvolvimento de back-end: NodeJS | ExpressJS | MongoDB | PostgreSQL | TypeScript | PrismaORM | Jest | Cypress
+- Boas práticas: KISS | DRY | Layered Architecture | Clean Code | Performance Optimization
+- DevOps: CI/CD | AWS
+- Versionamento: Git | Github
 
 <div>
 <a href="https://github.com/Matheus-daSilva">
