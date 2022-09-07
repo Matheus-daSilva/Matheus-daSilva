@@ -10,14 +10,7 @@ Já no meu último ano, recebo a notícia de que teria que desenvolver um trabal
 
 Formado e inspirado por um casal de professores que lecionou para a minha turma durante todo o ensino médio, decidi cursar Física. Ingressei na faculdade no ano de 2020 e, no meu segundo semestre, cursei uma matéria de introdução à computação, em que, novamente, mais um professor me inspirou a gostar de algo, e esse algo era Python!
 
-No final daquele semestre, continuei procurando cursos de progrmação e passei a assistir vídeos sobre o assunto no YouTube, até que apareceu um anúncio da Driven Education em que eles faziam a proposta de nos formar desenvolvedores FullStack Jr em apenas 9 meses. Mas não se enganem, nesses útilmos 9 meses passei por uma formação rigorosa e completa na área de desenvolvimento de hard e soft skills. Passei por diversas simulações de trabalho em equipe, aplicando as normas de boas práticas e as tecnologias citadas abaixo.
-
-------
-- Desenvolvimento de front-end: HTML | CSS | JavaScript | ReactJS | AJAX
-- Desenvolvimento de back-end: NodeJS | ExpressJS | MongoDB | PostgreSQL | TypeScript | PrismaORM | Jest | Cypress
-- Boas práticas: KISS | DRY | Layered Architecture | Clean Code | Performance Optimization
-- DevOps: CI/CD | AWS
-- Versionamento: Git | Github
+No final daquele semestre, continuei procurando cursos de progrmação e passei a assistir vídeos sobre o assunto no YouTube, até que apareceu um anúncio da Driven Education em que eles faziam a proposta de nos formar desenvolvedores FullStack Jr em apenas 9 meses. Mas não se enganem, nesses útilmos 9 meses passei por uma formação rigorosa e completa na área de desenvolvimento de hard e soft skills.
 
 <div>
 <a href="https://github.com/Matheus-daSilva">
