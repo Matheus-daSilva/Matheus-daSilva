@@ -6,10 +6,6 @@ Durante a minha graduação me surgiu um interesse na área de desenvolvimento a
 
 Na formação de hard skills aprendi tecnologias de front e back-end. Já na parte de soft skills da formação, foram abordados tópicos como planejamento, resiliência, vulnerabilidade, resolução de problemas, entre outros assuntos. Nesses meses, passei por diversas simulações de trabalho em equipe, desenvolvendo as competências para me tornar um dev Jr. Entreguei mais de 30 projetos, muitos dos quais eu tive a oportunidade de fazer parte do planejamento, desenvolvimento e execução.
 
-GitHub: https://github.com/Matheus-daSilva
-Email: matheus2001silva@live.com
-Celular: (11)978053363
-
 <div>
 <a href="https://github.com/Matheus-daSilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-daSilva&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="160px", width="400px" />
@@ -18,14 +14,38 @@ Celular: (11)978053363
 
 ## Tecnologias que utilizo
 
-<div style="display: inline_block"><br/>
-<img aling="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img aling="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img aling="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img aling="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img aling="center" alt="NodeJs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-</div><br/>
+  <p>Linguagens, Frameworks e Bibliotecas:</p>
+  <div>
+     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"/>  
+     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40"/>
+     <img align="left" alt="HTML5" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+     <img align="left" alt="CSS3" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+     <img align="left" src="https://avatars.githubusercontent.com/u/8908513?s=280&v=4" alt="cypress" width="40" height="40"/>
+     <img align="left" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" />
+  </div>
+  
+<br>
+<br>
+<br>
 
+  <p>Ferramentas, Bancos de Dados e  Deploy:</p>
+  <div>   
+    <img align="left" alt="Docker" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+    <img align="left" alt="MongoDB" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+    <img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    <img align="left" alt="PostGreeSQL" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+    <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
+    <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+    <img align="left" src="https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/57x57.png" alt="vercel" width="40" height="40"/>
+    <img align="left" src="https://manzanit0.gallerycdn.vsassets.io/extensions/manzanit0/heroku-vscode/0.3.0/1590949018168/Microsoft.VisualStudio.Services.Icons.Default" alt="heroku" width="40" height="40"/>
+     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+  </div>
+  
+  
+![Snake animation](https://github.com/kethlynsara/Matheus-daSilva/blob/output/github-contribution-grid-snake.svg)
+  
 ### Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheussilva2001/)
 
