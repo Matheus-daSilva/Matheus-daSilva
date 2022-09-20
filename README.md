@@ -11,6 +11,12 @@ Na formação de hard skills aprendi tecnologias de front e back-end. Já na par
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-daSilva&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="160px", width="400px" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-daSilva&layout=compact&langs_count=7&theme=radical" height="160px", width="400px" />
 </div>
+  
+<div style="padding-top:20px;">
+  <a href="https://github.com/Matheus-daSilva">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-daSilva&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-daSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 ## Tecnologias que utilizo
 
@@ -43,6 +49,9 @@ Na formação de hard skills aprendi tecnologias de front e back-end. Já na par
      <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
   </div>
   
+<br>
+<br>
+<br>
   
 ![Snake animation](https://github.com/Matheus-daSilva/Matheus-daSilva/blob/output/github-contribution-grid-snake.svg)
   
