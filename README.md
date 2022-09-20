@@ -54,7 +54,3 @@ Na formação de hard skills aprendi tecnologias de front e back-end. Já na par
 <a href="mailto:matheus2001silva@live.com">
   <img alt="Linkedin" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?" />
 </a>
-  
-![Snake animation](https://github.com/Matheus-daSilva/Matheus-daSilva/blob/output/github-contribution-grid-snake.svg)
-
-
