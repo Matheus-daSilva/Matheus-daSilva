@@ -44,7 +44,7 @@ Na formação de hard skills aprendi tecnologias de front e back-end. Já na par
   </div>
   
   
-![Snake animation](https://github.com/kethlynsara/Matheus-daSilva/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Matheus-daSilva/Matheus-daSilva/blob/output/github-contribution-grid-snake.svg)
   
 ### Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheussilva2001/)
