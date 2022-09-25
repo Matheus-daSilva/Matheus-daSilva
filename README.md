@@ -2,9 +2,9 @@
 
 Me chamo Matheus Silva, sou Desenvolvedor web full-stack e estudante de Física pela Universidade de São Paulo.
 
-Durante a minha graduação me surgiu um interesse na área de desenvolvimento após uma disciplina de introdução a computação, o que me levou a procurar cursos de programação até encontrar a Driven Education, uma edtech que tem a proposta de formar desenvolvedores full stack Jr em apenas 9 meses com uma carga horária de curso de mais de 1200h, em que, são abordados conteúdos de hard e soft skills.
+Amo os animais. Sou pai da Nina 🐶, da Lola 🐶 e da Pipoca 😸
 
-Na formação de hard skills aprendi tecnologias de front e back-end. Já na parte de soft skills da formação, foram abordados tópicos como planejamento, resiliência, vulnerabilidade, resolução de problemas, entre outros assuntos. Nesses meses, passei por diversas simulações de trabalho em equipe, desenvolvendo as competências para me tornar um dev Jr. Entreguei mais de 30 projetos, muitos dos quais eu tive a oportunidade de fazer parte do planejamento, desenvolvimento e execução.
+Meu interesse na área de desenvolvimento surgiu após uma disciplina de introdução a computação, o que me levou a procurar cursos de programação até encontrar a Driven Education, uma edtech que tem a proposta de formar desenvolvedores full stack abordando conteúdos de hard e soft skills. Passei por diversas simulações de trabalho em equipe, desenvolvendo as competências para me tornar um dev Jr. Entreguei mais de 30 projetos, muitos dos quais eu tive a oportunidade de fazer parte do planejamento, desenvolvimento e execução.
   
 <div style="padding-top:20px;">
   <a href="https://github.com/Matheus-daSilva">
