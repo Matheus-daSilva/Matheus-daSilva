@@ -1,10 +1,10 @@
 ### Bem vindo(a) ao meu perfil!
 
-Me chamo Matheus Silva, sou Desenvolvedor web full-stack e estudante de Física pela Universidade de São Paulo.
+Me chamo Matheus Silva, sou software engineer e estudante de Física pela Universidade de São Paulo.
 
 Amo os animais. Sou pai da Nina 🐶, da Lola 🐶 e da Pipoca 😸
 
-Meu interesse na área de desenvolvimento surgiu após uma disciplina de introdução a computação, o que me levou a procurar cursos de programação até encontrar a Driven Education, uma edtech que tem a proposta de formar desenvolvedores full stack abordando conteúdos de hard e soft skills. Passei por diversas simulações de trabalho em equipe, desenvolvendo as competências para me tornar um dev Jr. Entreguei mais de 30 projetos, muitos dos quais eu tive a oportunidade de fazer parte do planejamento, desenvolvimento e execução.
+Meu interesse na área de desenvolvimento surgiu após uma disciplina de introdução a computação, o que me levou a procurar cursos de programação até encontrar a Driven Education, uma edtech que tem a proposta de formar desenvolvedores full stack abordando conteúdos de hard e soft skills. Passei por diversas simulações de trabalho em equipe, desenvolvendo as competências para me tornar um dev. Entreguei mais de 30 projetos, muitos dos quais eu tive a oportunidade de fazer parte do planejamento, desenvolvimento e execução.
   
 <div style="padding-top:20px;">
   <a href="https://github.com/Matheus-daSilva">
