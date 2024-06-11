@@ -1,6 +1,6 @@
 ### Bem vindo(a) ao meu perfil!
 
-Me chamo Matheus Silva, sou software engineer e estudante de Física pela Universidade de São Paulo.
+Me chamo Matheus Silva, sou desenvolvedor de softwares e estudante de Física pela Universidade de São Paulo.
 
 Amo os animais. Sou pai da Nina 🐶, da Lola 🐶 e da Pipoca 😸
 
