@@ -2,7 +2,7 @@
 
 Me chamo Matheus Silva, sou desenvolvedor de softwares e estudante de Física pela Universidade de São Paulo.
 
-Amo os animais. Sou pai da Nina 🐶, da Lola 🐶 e da Pipoca 😸
+Amo os animais. Sou pai da Nina 🐶, da Lola 🐶
 
 Meu interesse na área de desenvolvimento surgiu após uma disciplina de introdução a computação, o que me levou a procurar cursos de programação até encontrar a Driven Education, uma edtech que tem a proposta de formar desenvolvedores full stack abordando conteúdos de hard e soft skills. Passei por diversas simulações de trabalho em equipe, desenvolvendo as competências para me tornar um dev. Entreguei mais de 30 projetos, muitos dos quais eu tive a oportunidade de fazer parte do planejamento, desenvolvimento e execução.
   
